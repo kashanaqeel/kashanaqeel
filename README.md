@@ -4,7 +4,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=000000&width=380&height=28&lines=Hi👋+I'm+Kashan+Aqeel..;Software+Engineer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=111111&width=380&height=28&lines=Hi👋+I'm+Kashan+Aqeel..;Software+Engineer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 <div align="center">
   <img src="https://github.com/kashanaqeel/kashanaqeel/blob/main/KashanAqeel%20GithubBanner.png" alt="logo" style="width: 100%; height: 50%;">

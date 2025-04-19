@@ -79,7 +79,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/0ad2b7b6-6417-4c56-a074-254b40af8a06.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://nextjs.org/static/favicon/favicon.svg" alt="Next.js Logo" width="40" height="40" style="filter: invert(1);" />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>

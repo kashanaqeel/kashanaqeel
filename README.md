@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/kashanaqeel/kashanaqeel/blob/main/KashanAqeel%20GithubBanner.png" alt="logo" style="width: 100%; height: 50%;">
 </div>
-    
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashanaqeel&label=Profile%20views&color=0e75b6&style=flat" alt="kashanaqeel" /> </p>
+
+- 📫 How to reach me **kashanaqeel74@gmail.com**
+
+- ⚡ Fun fact **My debugging works most of the time😎**
 # 🖥️ Technical Skills: 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">

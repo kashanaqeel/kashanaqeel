@@ -5,7 +5,7 @@
   <img src="https://github.com/kashanaqeel/kashanaqeel/blob/main/KashanAqeel%20GithubBanner.png" alt="logo" style="width: 100%; height: 50%;">
 </div>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="right" alt="coding" width="400px">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="right" alt="coding" width="20%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashanaqeel&label=Profile%20views&color=0e75b6&style=flat" alt="kashanaqeel" /> </p>
 

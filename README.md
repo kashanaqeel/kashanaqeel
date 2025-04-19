@@ -4,7 +4,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'm+Kashan+Aqeel..;Software+Engineer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'm+Kashan+Aqeel..;Software+Engineer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 <div align="center">
   <img src="https://github.com/kashanaqeel/kashanaqeel/blob/main/KashanAqeel%20GithubBanner.png" alt="logo" style="width: 100%; height: 50%;">
@@ -15,6 +15,16 @@
 - 📫 How to reach me **kashanaqeel74@gmail.com**
 
 - ⚡ Fun fact **My debugging works most of the time😎**
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kashanaqeel74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashanaqeel74" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kashan-aqeel-4297141a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashan-aqeel-4297141a7" height="30" width="40" /></a>
+<a href="https://fb.com/kashan.aqeel.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kashan.aqeel.71" height="30" width="40" /></a>
+<a href="https://instagram.com/its.kashaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.kashaan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kashanaqeel4493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kashanaqeel4493" height="30" width="40" /></a>
+</p>
+
 # 🖥️ Technical Skills: 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">

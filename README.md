@@ -1,9 +1,7 @@
 <h1 align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=28&lines=Hi👋+I'm+Kashan+Aqeel;Software+Engineer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
-<h1 align="center">Hi 👋, I'm Kashan Aqeel</h1>
-<h3 align="center">Enthusiastic Software Engineer from Pakistan</h3>
+</h1>
 
 <div align="center">
   <img src="https://github.com/kashanaqeel/kashanaqeel/blob/main/KashanAqeel%20GithubBanner.png" alt="logo" style="width: 100%; height: 50%;">

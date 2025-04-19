@@ -78,9 +78,10 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://nextjs.org/static/favicon/favicon.svg" alt="Next.js Logo" width="40" height="40" style="filter: invert(1);" />
-  </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);" />
+</a>
+
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
   </a>
